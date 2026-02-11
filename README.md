@@ -1,0 +1,2 @@
+# High_speed_arduinonano_powered_rc_boat_variable_thrustcontrol
+controlled using variable thrust method
